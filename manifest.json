@@ -1,0 +1,7 @@
+{
+  "name": "The Business Daily",
+  "short_name": "TheBusinessDaily",
+  "start_url": "/",
+  "display": "standalone",
+  "gcm_sender_id": "482941778795"
+}
